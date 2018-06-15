@@ -1,0 +1,87 @@
+.cuerpo_web{
+  background-color: #fff8d8;
+
+}
+
+h2{
+  font-family: 'Arvo', serif;
+  font-weight: bold;
+  font-size: 50px;
+  color: red;
+}
+
+.img_tacometro{
+  height: 40px;
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+
+.fila_titulo{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+h4{
+  font-family: 'Arvo', serif;
+  font-weight: bold;
+  font-size: 25px;
+  color: red;
+}
+
+.img_dinero{
+  height: 60px;
+}
+
+.descripcion{
+  margin-top: 30px;
+  color: black;
+  font-size: 25px; 
+  font-family: 'Arvo', serif;
+}
+
+.direccion{
+
+    margin-top: 45px;
+    color: black;
+    font-size: 20px; 
+    font-family: 'Arvo', serif;
+
+
+}
+
+.box{
+  background-color: #ffe989;
+  border: 5px solid red;
+  margin-top: 30px;
+}
+
+.tarjeta{
+  background-color: #fff8d8;
+  border-style: none;
+}
+
+p{
+  color: black;
+  font-size: 15px; 
+  font-family: 'Arvo', serif;
+}
+
+h5{
+  color: black;
+  font-size: 25px; 
+  font-family: 'Arvo', serif;
+}
+
+.mapa{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.b{
+  border: 2px solid black;
+  height: 100px;
+}
+
+.fila_img{
+  margin-top: 15%;
+}

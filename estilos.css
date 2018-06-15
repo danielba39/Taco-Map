@@ -1,0 +1,54 @@
+.cuerpo_web{
+  background-color: #fff8d8;
+
+}
+
+h1{
+  font-family: 'Arvo', serif;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  font-weight: bold;
+  font-size: 70px;
+  color: red;
+}
+
+.filas{
+  margin-top: 80px;
+}
+
+.img_tacometro{
+  height: 32px;
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+
+.tarjeta{
+  background-color: #ffe989;
+  border: 5px solid red;
+}
+
+.btn_card{
+  background-color: red;
+  border-color: red;
+  border: red;
+
+}
+.btn_card:hover{
+  background-color: red;
+}
+
+h5{
+  font-family: 'Arvo', serif;
+}
+
+p{
+  font-family: 'Arvo', serif;
+}
+
+
+
+/*.btn_card :hover{
+  background-color: red !important;
+  border-color: red !important;
+  color: white !important;
+}*/
