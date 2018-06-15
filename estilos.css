@@ -18,8 +18,8 @@ h1{
 
 .img_tacometro{
   height: 32px;
-  margin-top: 5px;
-  margin-bottom: 15px;
+  margin-top: 20px;
+
 }
 
 .tarjeta{
@@ -39,6 +39,7 @@ h1{
 
 h5{
   font-family: 'Arvo', serif;
+  font-weight: bold;
 }
 
 p{
