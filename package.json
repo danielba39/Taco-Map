@@ -1,0 +1,24 @@
+{
+  "name": "taco-map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mainIndex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielba39/Taco-Map.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielba39/Taco-Map/issues"
+  },
+  "homepage": "https://github.com/danielba39/Taco-Map#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "browserify": "^16.2.2",
+    "urijs": "^1.19.1"
+  }
+}
