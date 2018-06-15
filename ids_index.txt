@@ -1,0 +1,89 @@
+Taqueria1:
+--imgt1 (<img>imagen principal)
+--t1t (<p>ranking taco triste)
+--t1n (<p>ranking taco normal)
+--t1f (<p>ranking taco feliz)
+--t1_nombre (<h5>nombre taqueria)
+--t1_des_cor (<p>descripcion corta)
+--btn1 (<a>boton para ir a pagina de taqueria (instertar en href=""))
+
+Taqueria2:
+--imgt2 (<img>imagen principal)
+--t2t (<p>ranking taco triste)
+--t2n (<p>ranking taco normal)
+--t2f (<p>ranking taco feliz)
+--t2_nombre (<h5>nombre taqueria)
+--t2_des_cor (<p>descripcion corta)
+--btn2 (<a>boton para ir a pagina de taqueria (instertar en href=""))
+
+Taqueria3:
+--imgt3 (<img>imagen principal)
+--t3t (<p>ranking taco triste)
+--t3n (<p>ranking taco normal)
+--t3f (<p>ranking taco feliz)
+--t3_nombre (<h5>nombre taqueria)
+--t3_des_cor (<p>descripcion corta)
+--btn3 (<a>boton para ir a pagina de taqueria (instertar en href=""))
+
+Taqueria3:
+--imgt3 (<img>imagen principal)
+--t3t (<p>ranking taco triste)
+--t3n (<p>ranking taco normal)
+--t3f (<p>ranking taco feliz)
+--t3_nombre (<h5>nombre taqueria)
+--t3_des_cor (<p>descripcion corta)
+--btn3 (<a>boton para ir a pagina de taqueria (instertar en href=""))
+
+Taqueria4:
+--imgt4 (<img>imagen principal)
+--t4t (<p>ranking taco triste)
+--t4n (<p>ranking taco normal)
+--t4f (<p>ranking taco feliz)
+--t4_nombre (<h5>nombre taqueria)
+--t4_des_cor (<p>descripcion corta)
+--btn4 (<a>boton para ir a pagina de taqueria (instertar en href=""))
+
+Taqueria5:
+--imgt5 (<img>imagen principal)
+--t5t (<p>ranking taco triste)
+--t5n (<p>ranking taco normal)
+--t5f (<p>ranking taco feliz)
+--t5_nombre (<h5>nombre taqueria)
+--t5_des_cor (<p>descripcion corta)
+--btn5 (<a>boton para ir a pagina de taqueria (instertar en href=""))
+
+Taqueria6:
+--imgt6 (<img>imagen principal)
+--t6t (<p>ranking taco triste)
+--t6n (<p>ranking taco normal)
+--t6f (<p>ranking taco feliz)
+--t6_nombre (<h5>nombre taqueria)
+--t6_des_cor (<p>descripcion corta)
+--btn6 (<a>boton para ir a pagina de taqueria (instertar en href=""))
+
+Taqueria7:
+--imgt7 (<img>imagen principal)
+--t7t (<p>ranking taco triste)
+--t7n (<p>ranking taco normal)
+--t7f (<p>ranking taco feliz)
+--t7_nombre (<h5>nombre taqueria)
+--t7_des_cor (<p>descripcion corta)
+--btn7 (<a>boton para ir a pagina de taqueria (instertar en href=""))
+
+Taqueria8:
+--imgt8 (<img>imagen principal)
+--t2t (<p>ranking taco triste)
+--t8n (<p>ranking taco normal)
+--t8f (<p>ranking taco feliz)
+--t8_nombre (<h5>nombre taqueria)
+--t8_des_cor (<p>descripcion corta)
+--btn8 (<a>boton para ir a pagina de taqueria (instertar en href=""))
+
+Taqueria9:
+--imgt9 (<img>imagen principal)
+--t9t (<p>ranking taco triste)
+--t9n (<p>ranking taco normal)
+--t9f (<p>ranking taco feliz)
+--t9_nombre (<h5>nombre taqueria)
+--t9_des_cor (<p>descripcion corta)
+--btn9 (<a>boton para ir a pagina de taqueria (instertar en href=""))

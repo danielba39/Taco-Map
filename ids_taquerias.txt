@@ -1,0 +1,13 @@
+Taqueria 1:
+-t1_nombre (<h2>Nombre de la taqueria)
+-t1t (<p>ranking taco triste)
+-t1n (<p>ranking taco normal)
+-t1f (<p>ranking taco feliz)
+-dinerot1_1(<img>Imagen de dinero 1)
+-dinerot1_2(<img>Imagen de dinero 2)
+-dinerot1_3(<img>Imagen de dinero 3)
+-t1_des_lar (<p>descripcion larga)
+-t1_dir (<p>direccion de la taqueria)
+-t1_esp (<p>especialidad)
+-t1_sal (<p>salsas)
+-t1_map (<iframe>url de la direccion de g-maps)

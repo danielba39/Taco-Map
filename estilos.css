@@ -45,6 +45,13 @@ p{
   font-family: 'Arvo', serif;
 }
 
+.ranking{
+  font-family: 'Arvo', serif;
+  font-weight: bold;
+  font-size: 25px;
+  color: red;
+}
+
 
 
 /*.btn_card :hover{
